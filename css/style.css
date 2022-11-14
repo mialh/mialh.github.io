@@ -76,6 +76,7 @@ img {
 }
 
 .myButton {
+  font-family: 'Josefin Sans', sans-serif;
   border-radius: 28px;
   border: 1px solid #ffffff;
   cursor: pointer;
