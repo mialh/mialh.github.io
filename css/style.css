@@ -34,7 +34,7 @@ main {
 }
 
 h1 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -42,7 +42,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
