@@ -12,7 +12,13 @@ header,
 footer {
   background-color: #a4beff;
   text-align: left;
-  /*  min-width: 500px; */
+  background: #ddd6f3;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #faaca8, #ddd6f3);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #faaca8, #ddd6f3);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 
 header {
@@ -79,9 +85,9 @@ img {
 .myButton {
   font-family: 'Josefin Sans', sans-serif;
   border-radius: 28px;
-  border: 1px solid #ffffff;
+  border: 1px solid #000000;
   cursor: pointer;
-  color: #ffffff;
+  color: #000000;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
