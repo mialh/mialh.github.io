@@ -53,7 +53,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #00288c;
+  color: #0037c1;
   padding: 10px 0px 10px 10px;
 }
 
@@ -156,7 +156,7 @@ img {
 }
 
 .link {
-  color: #00288c;
+  color: #0037c1;
 }
 
 footer div {
@@ -167,6 +167,25 @@ footer div {
   align-content: center;
   padding: 10px 20px;
   color: rgb(255, 255, 255);
+  justify-content: space between;
+}
+
+.copyright {
+  margin: auto 0;
+}
+
+.icons {
+  list-style-type: none;
+  display: inline-flex;
+}
+
+.icons a {
+  margin: 0 8px;
+  color: rgb(255, 255, 255, 0.5);
+}
+
+.icons a:hover {
+  color: rgb(255, 255, 255, 0.8);
 }
 
 @media all and (max-width:700px) {
