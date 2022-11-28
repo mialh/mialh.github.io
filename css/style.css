@@ -10,7 +10,7 @@ body {
 
 header,
 footer {
-  background-color: #a4beff;
+  background-color: #5e8cff;
   text-align: left;
   /*  min-width: 500px; */
 }
@@ -47,7 +47,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #a4beff;
+  color: #5e8cff;
   padding: 10px 0px 10px 10px;
 }
 
@@ -88,7 +88,7 @@ img {
 }
 
 .myButton:hover {
-  background-color: #a4beff;
+  background-color: #5e8cff;
 }
 
 .myButton:active {
@@ -149,7 +149,7 @@ img {
 }
 
 .link {
-  color: #a4beff;
+  color: #5e8cff;
 }
 
 footer {
